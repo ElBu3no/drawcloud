@@ -1,2 +1,2 @@
 # visualizingcloud
-Some organization photo diagrams to memorize the cloud structure.
+Some organization diagrams to memorize the structure of the cloud.
