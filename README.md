@@ -1,2 +1,2 @@
-# drawcloud
-Some organization chart drawings to memorize the cloud structure.
+# visualizingcloud
+Some organization photo diagrams to memorize the cloud structure.
